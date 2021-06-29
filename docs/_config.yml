@@ -29,9 +29,10 @@ url: "https://github.com/scerioli/play-with-themes" # the base hostname & protoc
 github_username:  scerioli
 
 # Build settings
-theme: minima
+# theme: minima
 plugins:
   - jekyll-feed
+remote_theme: daattali/beautiful-jekyll
 
 # Exclude from processing.
 # The following items will not be processed, by default.

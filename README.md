@@ -23,3 +23,5 @@ Replace GITHUB-PAGES-VERSION with the latest supported version of the github-pag
 - From the command line, run bundle update.
 
 - Modify the _config.yml according to what you wish to have
+
+- Go to the git repo online, select Settings and Pages, and configure it as "Branch:main" and "/docs", and Save
